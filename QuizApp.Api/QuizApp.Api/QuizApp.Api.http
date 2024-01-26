@@ -1,0 +1,6 @@
+@QuizApp.Api_HostAddress = http://localhost:5248
+
+GET {{QuizApp.Api_HostAddress}}/Quiz/
+Accept: application/json
+
+###
